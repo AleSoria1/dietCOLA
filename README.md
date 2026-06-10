@@ -1,4 +1,3 @@
-# Displacement & Instantaneous Edge Tracking for COLA
 # dietCoLA: Displaced Element Tracking for Cortical Laser Ablation
 
 ## Overview
